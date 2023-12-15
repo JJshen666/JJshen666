@@ -1,5 +1,5 @@
 ### Hi there 👋
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Shen Jiajun)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JJshen666)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **JJshen666/JJshen666** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
